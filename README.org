@@ -1,0 +1,10 @@
+* de-mock-racy
+
+Common Lisp mocking library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sirherrbatka/de-mock-racy.git   |
+| commit  | {"messa  |
+| systems | de-mock-racy |
+|---------+-------------------------------------------|
+

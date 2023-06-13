@@ -4,7 +4,7 @@ Common Lisp mocking library
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/sirherrbatka/de-mock-racy.git   |
-| commit  | {"messa  |
+| commit  | 4e2cdf7  |
 | systems | de-mock-racy |
 |---------+-------------------------------------------|
 
